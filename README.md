@@ -19,18 +19,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://twitter.com/trimstray" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/trimstray.svg?logo=twitter">
-  </a>
-</p>
-
-<div align="center">
-  <sub>Created by
-  <a href="https://twitter.com/trimstray">trimstray</a> and
-  <a href="https://github.com/trimstray/the-book-of-secret-knowledge/graphs/contributors">contributors</a>
-</div>
-
 <br>
 
 ****
@@ -65,25 +53,6 @@ Before adding a pull request, please see the **[contributing guidelines](.github
 ```diff
 + This repository is not meant to contain everything but only good quality stuff.
 ```
-
-All **suggestions/PR** are welcome!
-
-### Code Contributors
-
-This project exists thanks to all the people who contribute.
-
-<a href="https://github.com/trimstray/the-book-of-secret-knowledge/graphs/contributors"><img src="https://opencollective.com/the-book-of-secret-knowledge/contributors.svg?width=890&button=false"></a>
-
-### Financial Contributors
-
-<p align="left">
-  <a href="https://opencollective.com/the-book-of-secret-knowledge" alt="Financial Contributors on Open Collective">
-    <img src="https://img.shields.io/opencollective/backers/the-book-of-secret-knowledge?style=for-the-badge&color=FF4500&labelColor=A9A9A9"></a>
-  </a>
-  <a href="https://opencollective.com/the-book-of-secret-knowledge" alt="Financial Contributors on Open Collective">
-    <img src="https://img.shields.io/opencollective/sponsors/the-book-of-secret-knowledge?style=for-the-badge&color=FF4500&labelColor=A9A9A9"></a>
-  </a>
-</p>
 
 ## :newspaper: &nbsp;RSS Feed & Updates
 
